@@ -1,9 +1,4 @@
-package Homework1;
-/*
- *  @author Tahseen Zaman
- *  ID : 114332480
- *  Recitation : 03
- */
+
 public class Course implements Cloneable {
     private String name;
     private String department;
